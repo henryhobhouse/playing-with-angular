@@ -1,4 +1,5 @@
 import { Injectable } from '@angular/core';
+import { promise } from 'selenium-webdriver';
 
 @Injectable()
 export class MessageService {
